@@ -1,32 +1,35 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Shukalyan%20Pramanik&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:1a0b2e,50:4c1d95,100:312e81&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Shukalyan%20Pramanik&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&color=0:1a0b2e,50:4c1d95,100:312e81&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+Systems;Exploring+AI%2C+Agents+%26+Intelligent+Applications;Full+Stack+Developer+with+a+Product+Engineering+Mindset;Turning+Ideas+into+Reliable+Digital+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+Scalable+Software+Systems;Full+Stack+Developer+with+a+Product+Engineering+Mindset;Turning+Ideas+into+Reliable+Digital+Products;Always+Learning%2C+Building%2C+and+Improving" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/BCA-Computer%20Applications-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Software-Engineering-4F46E5?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-7C3AED?style=for-the-badge&logo=stackblitz&logoColor=white" />
 
 <br/><br/>
 
-<a href="https://github.com/Shukalyan">
+<a href="https://github.com/Shukalyan103">
   <img src="https://img.shields.io/badge/Location-West%20Bengal%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </a>
-<a href="https://shukalyan.dev">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/shukalyan-pramanik">
+
+<a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/>
 
-<a href="mailto:shukalyanpramanik103@gmail.com">
+<a href="#">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/Shukalyan103">
   <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -34,11 +37,13 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Shukalyan103&label=PROFILE%20VIEWS&color=6D28D9&style=flat-square" />
+
 <a href="https://github.com/Shukalyan103?tab=followers">
-  <img src="https://img.shields.io/github/followers/Shukalyan?label=FOLLOWERS&style=flat-square&color=6D28D9&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/github/followers/Shukalyan103?label=FOLLOWERS&style=flat-square&color=6D28D9&labelColor=1e1b4b" />
 </a>
+
 <a href="https://github.com/Shukalyan103">
-  <img src="https://img.shields.io/github/stars/Shukalyan?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL%20STARS&style=flat-square&color=7C3AED&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/github/stars/Shukalyan103?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL%20STARS&style=flat-square&color=7C3AED&labelColor=1e1b4b" />
 </a>
 
 </div>
@@ -47,21 +52,21 @@
 
 # About
 
-I am **Shukalyan Pramanik**, an aspiring **Software Engineer and Full Stack Developer** focused on designing reliable, scalable, and intelligent software products.
+I am **Shukalyan Pramanik**, an aspiring **Software Engineer and Full Stack Developer** focused on designing reliable, scalable, and user-focused software products.
 
-My engineering interests span **modern web development, AI-powered applications, developer tools, automation, and intelligent agent systems**. I enjoy working across the complete software development lifecycle—from architecture and backend systems to polished user experiences and AI integration.
+I enjoy building modern applications across the complete software development lifecycle—from designing clean user interfaces and managing application state to developing backend systems and working with databases.
 
-I approach software development with a **product engineering mindset**: understanding the problem, designing practical solutions, building maintainable systems, and continuously improving performance and user experience.
+I approach software development with a **product engineering mindset**: understanding problems, designing practical solutions, writing maintainable code, and continuously improving performance and user experience.
 
-My current focus includes building **AI-powered developer tools, CLI agents, intelligent applications, full-stack systems, and modern web platforms**.
+My current focus is on building **full-stack applications, developer tools, CLI applications, modern web platforms, and scalable software systems**.
 
 ### Open To
 
 - Software Engineering Internships
 - Full Stack Development Opportunities
-- AI / Machine Learning Projects
+- Frontend Development Projects
+- Backend Development Projects
 - Open Source Collaboration
-- Developer Tools & Automation Projects
 - Product Engineering Opportunities
 
 ---
@@ -86,7 +91,7 @@ My current focus includes building **AI-powered developer tools, CLI agents, int
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,netlify,postman,npm&theme=dark" />
 
-### Engineering & Developer Tools
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,githubactions,figma,webstorm&theme=dark" />
 
@@ -94,106 +99,77 @@ My current focus includes building **AI-powered developer tools, CLI agents, int
 
 ---
 
-# AI / ML Expertise
+# Engineering Expertise
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Generative AI** | Advanced | LLM-powered applications, prompt engineering, AI workflows |
-| **AI Agents** | Advanced | Tool calling, CLI agents, multi-step task execution |
-| **LLM Integration** | Advanced | OpenRouter, Gemini, Vercel AI SDK and modern AI APIs |
-| **AI Developer Tools** | Advanced | AI-assisted coding, code generation, refactoring workflows |
-| **Machine Learning** | Developing | ML fundamentals, model integration and experimentation |
-| **Automation** | Advanced | Intelligent workflows, CLI automation and agent orchestration |
+| **Frontend Development** | Advanced | Responsive interfaces, React applications, and modern UI development |
+| **Backend Development** | Advanced | APIs, server-side applications, authentication, and services |
+| **Full Stack Development** | Advanced | End-to-end application architecture and development |
+| **Developer Tools** | Advanced | CLI applications, automation, and productivity tools |
+| **Database Development** | Developing | MongoDB, MySQL, PostgreSQL, and Firebase |
+| **Software Architecture** | Developing | Modular systems, maintainable code, and scalable application design |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Devora CLI — AI-Powered Developer Assistant</b></summary>
+<summary><b>Devora CLI — Developer Command Line Tool</b></summary>
 
 <br/>
 
-Devora CLI is an AI-powered command-line assistant designed to bring intelligent workflows directly into the terminal. The project focuses on conversational AI, command execution, extensible architecture, and developer productivity.
+Devora CLI is a developer-focused command-line application designed to provide structured commands, extensible workflows, and improved terminal productivity.
 
 | Category | Details |
 |:---|:---|
-| **Stack** | JavaScript, Node.js, Commander.js, OpenRouter, Vercel AI SDK |
+| **Stack** | JavaScript, Node.js, Commander.js |
 | **Scale** | Modular CLI architecture designed for feature expansion |
 | **Performance** | Lightweight command-driven execution |
-| **Security** | Environment-based API key management |
-| **Impact** | Streamlines AI-assisted developer workflows |
-| **Repository** | [View Repository](https://github.com/Shukalyan) |
+| **Security** | Environment-based configuration management |
+| **Impact** | Improves developer productivity and terminal workflows |
+| **Repository** | [View GitHub Profile](https://github.com/Shukalyan103) |
 
-**Engineering Highlights**
+### Engineering Highlights
 
 - Modular CLI command architecture
-- AI-powered prompt processing
-- OpenRouter model integration
+- Structured command handling
 - Environment-based configuration
-- Designed for future agent tools and orchestration
-- Extensible command and connector system
+- Extensible application architecture
+- Developer-focused workflows
+- Clean project organization
+- Designed for future feature expansion
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>AI Code Editor — Intelligent Development Environment</b></summary>
+<summary><b>Code Editor — Modern Browser-Based Development Environment</b></summary>
 
 <br/>
 
-An AI-powered development environment focused on combining modern code editing, intelligent assistance, project management, runtime execution, and AI-driven software engineering workflows.
+A modern browser-based development environment focused on code editing, project management, file organization, runtime execution, and developer productivity.
 
 | Category | Details |
 |:---|:---|
 | **Stack** | React, Monaco Editor, Zustand, WebContainer, Node.js |
 | **Scale** | Multi-project architecture with persistent state |
 | **Performance** | Browser-based project execution and optimized state management |
-| **Security** | Controlled API integration and isolated runtime workflows |
-| **Impact** | Improves development productivity with AI-assisted workflows |
-| **Repository** | [View Repository](https://github.com/Shukalyan) |
+| **Security** | Controlled runtime workflows and application state |
+| **Impact** | Provides an integrated development environment directly in the browser |
+| **Repository** | [View GitHub Profile](https://github.com/Shukalyan103) |
 
-**Engineering Highlights**
+### Engineering Highlights
 
 - Monaco Editor integration
-- AI-powered code explanation and refactoring
 - Multi-project workspace support
 - File explorer and project management
 - WebContainer-based project execution
 - Live preview architecture
 - ZIP project import support
-- AI streaming and conversational development workflows
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>Jarvis — Intelligent AI Assistant</b></summary>
-
-<br/>
-
-A modular AI assistant concept designed around intelligent agents, automation, memory, command execution, file management, and extensible system integrations.
-
-| Category | Details |
-|:---|:---|
-| **Stack** | Python, AI APIs, SQLite, Automation Tools |
-| **Scale** | Modular assistant architecture |
-| **Performance** | Designed for efficient operation on consumer hardware |
-| **Security** | Permission-aware system operations |
-| **Impact** | Enables intelligent automation and productivity workflows |
-| **Repository** | [View Repository](https://github.com/Shukalyan) |
-
-**Engineering Highlights**
-
-- Conversational AI workflows
-- Long-term memory architecture
-- CLI and system command execution
-- File management automation
-- Modular plugin architecture
-- Multi-agent task execution concepts
-- Vision and screen understanding exploration
+- Persistent application state
+- Modern developer-focused user interface
 
 </details>
 
@@ -206,20 +182,21 @@ A modular AI assistant concept designed around intelligent agents, automation, m
 **Independent Projects & Engineering Practice**  
 **2024 — Present**
 
-Focused on designing and building practical software applications while strengthening expertise across frontend development, backend systems, AI integration, developer tooling, and software architecture.
+Focused on designing and building practical software applications while strengthening expertise in frontend development, backend systems, databases, developer tooling, and software architecture.
 
 ### Scope of Work
 
 - Building full-stack web applications using modern JavaScript technologies.
-- Developing AI-powered applications and intelligent developer tools.
-- Designing modular CLI applications and agent-based workflows.
+- Developing responsive and interactive user interfaces.
+- Designing backend APIs and application services.
+- Building developer tools and command-line applications.
 - Exploring browser-based runtime environments and code execution systems.
-- Building interactive development environments with Monaco Editor and WebContainer.
-- Practicing scalable architecture, state management, API integration, and debugging.
+- Working with databases and persistent application state.
+- Practicing scalable architecture, debugging, and software engineering principles.
 
-**Core Skills**
+### Core Skills
 
-`JavaScript` `React` `Node.js` `Python` `AI APIs` `Git` `REST APIs` `CLI Development`
+`JavaScript` `React` `Node.js` `Python` `Git` `REST APIs` `CLI Development` `Databases`
 
 ---
 
@@ -229,10 +206,10 @@ Focused on designing and building practical software applications while strength
 
 | Recognition | Details |
 |:---:|:---|
-| **Software Engineering Portfolio** | Building practical full-stack and AI-powered projects |
-| **AI Engineering Exploration** | Working with LLM APIs, AI agents, and intelligent workflows |
-| **Developer Tooling** | Building CLI tools and AI-assisted development environments |
-| **Continuous Learning** | Expanding expertise in software architecture and modern technologies |
+| **Software Engineering Portfolio** | Building practical full-stack and developer-focused projects |
+| **Full Stack Development** | Working across frontend, backend, and database technologies |
+| **Developer Tooling** | Building CLI tools and browser-based development environments |
+| **Continuous Learning** | Expanding expertise in software engineering and modern technologies |
 
 </div>
 
@@ -336,23 +313,23 @@ Focused on designing and building practical software applications while strength
 Learning:
   - Advanced Software Engineering
   - System Design Fundamentals
-  - AI Agents and LLM Applications
-  - Scalable Backend Architecture
+  - Backend Architecture
+  - Database Design
 
 Building:
-  - AI Powered Developer Tools
-  - Intelligent CLI Applications
   - Full Stack Web Applications
-  - AI Assisted Development Environments
+  - Developer Tools
+  - Command Line Applications
+  - Modern Web Platforms
 
 Exploring:
-  - Agent Orchestration
-  - Generative AI
   - WebContainer Runtime
+  - Cloud Technologies
   - Open Source Development
+  - Scalable Application Architecture
 
 Open_To:
   - Software Engineering Opportunities
-  - AI Engineering Projects
   - Full Stack Development
+  - Frontend Development
   - Open Source Collaboration
